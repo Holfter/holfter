@@ -32,6 +32,6 @@ I'm Matheus Holfter, a Front End Web Developer. I Spend most of time learning an
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=holfter.holfter)
-![Snake animation](https://github.com/Holfter/holfter/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/holfter/holfter/blob/output/github-contribution-grid-snake.svg)
 
 
