@@ -16,7 +16,6 @@ I'm Matheus Holfter, a Front End Web Developer. I Spend most of time learning an
 
 ##
 
-- 🔭 I’m currently looking for jobs.
 - :email: Email: matheusholfter@hotmail.com
 
 ##
