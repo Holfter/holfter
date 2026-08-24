@@ -1,31 +1,88 @@
-## Hi, I'm Holfter <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-I'm Matheus Holfter, a Full Stack Developer.
-<div>
-  <a href="https://github.com/holfter">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=holfter&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holfter&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+## Hi, I'm Matheus Holfter 👋
 
-##
-<div> 
-  <a href="https://instagram.com/holfter" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:holftergamer7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/holfter" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-<!-- TODO: Add last video link -->
+Full-Stack Developer with 5 years of professional experience, including international experience since 2024.
 
-##
+I work across frontend, backend, and databases, mainly with **Go, React, TypeScript, and PostgreSQL**.
 
-- :email: Email: matheusholfter@hotmail.com
+My recent work includes full-stack product development, report generation, document automation, complex forms and workflows, database modeling, REST APIs, performance optimization, automated testing, and scalable data-loading strategies.
 
-##
-#### Technologies
+---
 
-<!-- TODO: Make technologies links takes you to repositories -->
-[![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+## 👨‍💻 Experience
 
+Throughout my career, I've worked on:
 
+- Full-stack applications using **Go, React, TypeScript, PostgreSQL, Laravel, PHP, and MySQL**
+- Metadata-driven report generation and dynamic template systems
+- PDF/DOCX document generation
+- Complex case-management and internal operational tools
+- Dynamic forms and validation workflows
+- REST APIs and third-party integrations
+- Database modeling, migrations, SQL queries, CTEs, indexes, and transactional operations
+- Cursor / keyset pagination and server-side filtering and sorting
+- Infinite loading, caching, batching, and virtualization
+- Automated testing with Go and Playwright
+- E-commerce platforms, payment integrations, shipping APIs, and admin systems
+- Legacy system migrations and application modernization
 
+I've also worked with developer mentoring, code reviews, technical interviews, and client-facing technical discussions.
 
+---
 
+## 🛠️ Main Stack
+
+### Backend
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-005571?style=for-the-badge)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+
+### Data & Performance
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![TanStack Virtual](https://img.shields.io/badge/TanStack_Virtual-111827?style=for-the-badge)
+
+### Testing
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Go Testing](https://img.shields.io/badge/Go-Testing-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Cloud & Tooling
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+AWS services I've worked with include **S3, Cognito, and Secrets Manager**.
+
+---
+
+## 📚 Currently Studying
+
+- System Design
+- Distributed Systems
+- Database scalability
+- Go backend development
+- Data Structures & Algorithms
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Holfter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/holfter)
+
+📧 matheusholfter@hotmail.com
